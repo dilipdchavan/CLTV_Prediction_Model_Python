@@ -18,9 +18,6 @@ Deciding the time frame really depends on your industry, business model, strateg
 RFM scores for each customer ID are the perfect candidates for feature set. To implement it correctly, we need to split our dataset. We will take 3 months of data, calculate RFM and use it for predicting next 6 months. So we need to create two dataframes first and append RFM scores to them.
 
 
-
-
-
 ![CLTV_Prediction_Score](CLTV_Prediction_Score.png)
 
  
