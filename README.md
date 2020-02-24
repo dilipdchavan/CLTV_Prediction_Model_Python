@@ -21,7 +21,7 @@ RFM scores for each customer ID are the perfect candidates for feature set. To i
 
 
 
-! [CLTV_Prediction_Score] (CLTV_Prediction_Score.png)
+![CLTV_Prediction_Score](CLTV_Prediction_Score.png)
 
  
 
