@@ -4,7 +4,7 @@
 Customer lifetime value is the metric that indicates the total revenue a business can reasonably expect from a single customer account. It considers a customer's revenue value, and compares that number to the company's predicted customer lifespan. Businesses use this metric to identify significant customer segments that are the most valuable to the company.
 The longer a customer continues to purchase from a company, the greater their lifetime value becomes.
 We invest in customers (acquisition costs, offline ads, promotions, discounts & etc.) to generate revenue and be profitable. Naturally, these actions make some customers super valuable in terms of lifetime value but there are always some customers who pull down the profitability. We need to identify these behavior patterns, segment customers and act accordingly.
-Customer Lifetime Value [CLTV] : Total Gross Revenue - Total Cost
+### Customer Lifetime Value [CLTV] : Total Gross Revenue - Total Cost
 
 
 ## Lifetime Value Prediction
